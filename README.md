@@ -19,7 +19,7 @@ This project allows users to rent cars, return cars, and manage available vehicl
 
 ## Technologies Used
 
-- Java / Python (Edit based on your project language)
+- Java 
 - Object-Oriented Programming (OOP)
 - Collections / Lists
 - File Handling (if used)
